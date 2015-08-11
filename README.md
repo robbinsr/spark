@@ -1,2 +1,2 @@
 # spark
-labs from Berkely AMP Lab and EdX
+labs from Berkeley AMP Lab and EdX
