@@ -1,2 +1,1 @@
-# spark
-labs from Berkeley AMP Lab and EdX
+You are reading the README.md file in the **spark** GitHub repository affiliated with Russ Robbins. This repository has 1 of the 9 labs completed. Further, it is very likely that this code needs to be refactored, especially with regards to documenting it and eliminating extraneous code.
